@@ -37,7 +37,7 @@ namespace AdivinharNumero
                 }
                 else
                 {
-                    Console.WriteLine($"\nParabêns!!\nVocê acertou o número secreto: {numSecreto}");
+                    Console.WriteLine($"\nParabéns!!\nVocê acertou o número secreto: {numSecreto}");
                     break;
                 }
             }
