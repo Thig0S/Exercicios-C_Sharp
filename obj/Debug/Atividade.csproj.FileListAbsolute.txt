@@ -1,0 +1,8 @@
+C:\BRUNO\LP\Atividade\obj\Debug\Atividade.csproj.AssemblyReference.cache
+C:\BRUNO\LP\Atividade\obj\Debug\Atividade.csproj.SuggestedBindingRedirects.cache
+C:\BRUNO\LP\Atividade\obj\Debug\Atividade.csproj.CoreCompileInputs.cache
+C:\BRUNO\LP\Atividade\bin\Debug\Atividade.exe.config
+C:\BRUNO\LP\Atividade\bin\Debug\Atividade.exe
+C:\BRUNO\LP\Atividade\bin\Debug\Atividade.pdb
+C:\BRUNO\LP\Atividade\obj\Debug\Atividade.exe
+C:\BRUNO\LP\Atividade\obj\Debug\Atividade.pdb
