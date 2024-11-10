@@ -1,0 +1,7 @@
+C:\Users\Pichau\source\repos\ExercicioListas\ExercicioListas\obj\Debug\ExercicioListas.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\ExercicioListas\ExercicioListas\obj\Debug\ExercicioListas.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\ExercicioListas\ExercicioListas\bin\Debug\ExercicioListas.exe.config
+C:\Users\Pichau\source\repos\ExercicioListas\ExercicioListas\bin\Debug\ExercicioListas.exe
+C:\Users\Pichau\source\repos\ExercicioListas\ExercicioListas\bin\Debug\ExercicioListas.pdb
+C:\Users\Pichau\source\repos\ExercicioListas\ExercicioListas\obj\Debug\ExercicioListas.exe
+C:\Users\Pichau\source\repos\ExercicioListas\ExercicioListas\obj\Debug\ExercicioListas.pdb
