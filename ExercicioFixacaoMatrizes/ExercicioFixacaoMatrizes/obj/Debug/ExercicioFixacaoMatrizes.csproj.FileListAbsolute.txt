@@ -1,0 +1,7 @@
+C:\Users\Pichau\source\repos\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\bin\Debug\ExercicioFixacaoMatrizes.exe.config
+C:\Users\Pichau\source\repos\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\bin\Debug\ExercicioFixacaoMatrizes.exe
+C:\Users\Pichau\source\repos\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\bin\Debug\ExercicioFixacaoMatrizes.pdb
+C:\Users\Pichau\source\repos\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\ExercicioFixacaoMatrizes.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\ExercicioFixacaoMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\ExercicioFixacaoMatrizes.exe
+C:\Users\Pichau\source\repos\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\ExercicioFixacaoMatrizes.pdb
