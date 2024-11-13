@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pichau\\source\\repos\\ExercicioComposicao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C808DC-6363-417F-971F-0B67AC0D2057}|ExercicioComposicao\\ExercicioComposicao.csproj|C:\\Users\\Pichau\\source\\repos\\ExercicioComposicao\\exerciciocomposicao\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C808DC-6363-417F-971F-0B67AC0D2057}|ExercicioComposicao\\ExercicioComposicao.csproj|solutionrelative:exerciciocomposicao\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C808DC-6363-417F-971F-0B67AC0D2057}|ExercicioComposicao\\ExercicioComposicao.csproj|C:\\Users\\Pichau\\source\\repos\\ExercicioComposicao\\exerciciocomposicao\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C808DC-6363-417F-971F-0B67AC0D2057}|ExercicioComposicao\\ExercicioComposicao.csproj|solutionrelative:exerciciocomposicao\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C808DC-6363-417F-971F-0B67AC0D2057}|ExercicioComposicao\\ExercicioComposicao.csproj|c:\\users\\pichau\\source\\repos\\exerciciocomposicao\\exerciciocomposicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C808DC-6363-417F-971F-0B67AC0D2057}|ExercicioComposicao\\ExercicioComposicao.csproj|solutionrelative:exerciciocomposicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C808DC-6363-417F-971F-0B67AC0D2057}|ExercicioComposicao\\ExercicioComposicao.csproj|C:\\Users\\Pichau\\source\\repos\\ExercicioComposicao\\exerciciocomposicao\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C808DC-6363-417F-971F-0B67AC0D2057}|ExercicioComposicao\\ExercicioComposicao.csproj|solutionrelative:exerciciocomposicao\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C808DC-6363-417F-971F-0B67AC0D2057}|ExercicioComposicao\\ExercicioComposicao.csproj|C:\\Users\\Pichau\\source\\repos\\ExercicioComposicao\\exerciciocomposicao\\entities\\enums\\workerlvl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C808DC-6363-417F-971F-0B67AC0D2057}|ExercicioComposicao\\ExercicioComposicao.csproj|solutionrelative:exerciciocomposicao\\entities\\enums\\workerlvl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\ExercicioComposicao\\ExercicioComposicao\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioComposicao\\Program.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\ExercicioComposicao\\ExercicioComposicao\\Program.cs",
+              "RelativeToolTip": "ExercicioComposicao\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwBYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T01:42:50.256Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\ExercicioComposicao\\ExercicioComposicao\\Entities\\Worker.cs",
+              "RelativeDocumentMoniker": "ExercicioComposicao\\Entities\\Worker.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\ExercicioComposicao\\ExercicioComposicao\\Entities\\Worker.cs",
+              "RelativeToolTip": "ExercicioComposicao\\Entities\\Worker.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwC0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T01:47:25.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkerLvl.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\ExercicioComposicao\\ExercicioComposicao\\Entities\\Enums\\WorkerLvl.cs",
+              "RelativeDocumentMoniker": "ExercicioComposicao\\Entities\\Enums\\WorkerLvl.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\ExercicioComposicao\\ExercicioComposicao\\Entities\\Enums\\WorkerLvl.cs",
+              "RelativeToolTip": "ExercicioComposicao\\Entities\\Enums\\WorkerLvl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T01:46:32.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HourContract.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\ExercicioComposicao\\ExercicioComposicao\\Entities\\HourContract.cs",
+              "RelativeDocumentMoniker": "ExercicioComposicao\\Entities\\HourContract.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\ExercicioComposicao\\ExercicioComposicao\\Entities\\HourContract.cs*",
+              "RelativeToolTip": "ExercicioComposicao\\Entities\\HourContract.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAWwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T01:44:11.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\ExercicioComposicao\\ExercicioComposicao\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "ExercicioComposicao\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\ExercicioComposicao\\ExercicioComposicao\\Entities\\Department.cs",
+              "RelativeToolTip": "ExercicioComposicao\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T01:43:17.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

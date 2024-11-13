@@ -1,0 +1,7 @@
+C:\Users\Pichau\source\repos\ExercicioComposicao\ExercicioComposicao\obj\Debug\ExercicioComposicao.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\ExercicioComposicao\ExercicioComposicao\obj\Debug\ExercicioComposicao.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\ExercicioComposicao\ExercicioComposicao\bin\Debug\ExercicioComposicao.exe.config
+C:\Users\Pichau\source\repos\ExercicioComposicao\ExercicioComposicao\bin\Debug\ExercicioComposicao.exe
+C:\Users\Pichau\source\repos\ExercicioComposicao\ExercicioComposicao\bin\Debug\ExercicioComposicao.pdb
+C:\Users\Pichau\source\repos\ExercicioComposicao\ExercicioComposicao\obj\Debug\ExercicioComposicao.exe
+C:\Users\Pichau\source\repos\ExercicioComposicao\ExercicioComposicao\obj\Debug\ExercicioComposicao.pdb
