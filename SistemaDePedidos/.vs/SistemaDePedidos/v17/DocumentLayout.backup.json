@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pichau\\source\\repos\\SistemaDePedidos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6225880-C87C-498D-B497-8056839383BF}|SistemaDePedidos\\SistemaDePedidos.csproj|C:\\Users\\Pichau\\source\\repos\\SistemaDePedidos\\sistemadepedidos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6225880-C87C-498D-B497-8056839383BF}|SistemaDePedidos\\SistemaDePedidos.csproj|solutionrelative:sistemadepedidos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6225880-C87C-498D-B497-8056839383BF}|SistemaDePedidos\\SistemaDePedidos.csproj|c:\\users\\pichau\\source\\repos\\sistemadepedidos\\sistemadepedidos\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6225880-C87C-498D-B497-8056839383BF}|SistemaDePedidos\\SistemaDePedidos.csproj|solutionrelative:sistemadepedidos\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6225880-C87C-498D-B497-8056839383BF}|SistemaDePedidos\\SistemaDePedidos.csproj|C:\\Users\\Pichau\\source\\repos\\SistemaDePedidos\\sistemadepedidos\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6225880-C87C-498D-B497-8056839383BF}|SistemaDePedidos\\SistemaDePedidos.csproj|solutionrelative:sistemadepedidos\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6225880-C87C-498D-B497-8056839383BF}|SistemaDePedidos\\SistemaDePedidos.csproj|C:\\Users\\Pichau\\source\\repos\\SistemaDePedidos\\sistemadepedidos\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6225880-C87C-498D-B497-8056839383BF}|SistemaDePedidos\\SistemaDePedidos.csproj|solutionrelative:sistemadepedidos\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6225880-C87C-498D-B497-8056839383BF}|SistemaDePedidos\\SistemaDePedidos.csproj|C:\\Users\\Pichau\\source\\repos\\SistemaDePedidos\\sistemadepedidos\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6225880-C87C-498D-B497-8056839383BF}|SistemaDePedidos\\SistemaDePedidos.csproj|solutionrelative:sistemadepedidos\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\SistemaDePedidos\\SistemaDePedidos\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaDePedidos\\Program.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\SistemaDePedidos\\SistemaDePedidos\\Program.cs",
+              "RelativeToolTip": "SistemaDePedidos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T04:08:30.209Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\SistemaDePedidos\\SistemaDePedidos\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "SistemaDePedidos\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\SistemaDePedidos\\SistemaDePedidos\\Entities\\Order.cs",
+              "RelativeToolTip": "SistemaDePedidos\\Entities\\Order.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwD8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:33:05.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\SistemaDePedidos\\SistemaDePedidos\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "SistemaDePedidos\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\SistemaDePedidos\\SistemaDePedidos\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "SistemaDePedidos\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T04:13:20.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\SistemaDePedidos\\SistemaDePedidos\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "SistemaDePedidos\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\SistemaDePedidos\\SistemaDePedidos\\Entities\\Product.cs",
+              "RelativeToolTip": "SistemaDePedidos\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T04:12:13.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\SistemaDePedidos\\SistemaDePedidos\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "SistemaDePedidos\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\SistemaDePedidos\\SistemaDePedidos\\Entities\\Client.cs",
+              "RelativeToolTip": "SistemaDePedidos\\Entities\\Client.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:16:14.745Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

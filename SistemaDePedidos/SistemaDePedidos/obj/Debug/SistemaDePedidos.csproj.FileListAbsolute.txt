@@ -1,0 +1,7 @@
+C:\Users\Pichau\source\repos\SistemaDePedidos\SistemaDePedidos\bin\Debug\SistemaDePedidos.exe.config
+C:\Users\Pichau\source\repos\SistemaDePedidos\SistemaDePedidos\bin\Debug\SistemaDePedidos.exe
+C:\Users\Pichau\source\repos\SistemaDePedidos\SistemaDePedidos\bin\Debug\SistemaDePedidos.pdb
+C:\Users\Pichau\source\repos\SistemaDePedidos\SistemaDePedidos\obj\Debug\SistemaDePedidos.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\SistemaDePedidos\SistemaDePedidos\obj\Debug\SistemaDePedidos.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\SistemaDePedidos\SistemaDePedidos\obj\Debug\SistemaDePedidos.exe
+C:\Users\Pichau\source\repos\SistemaDePedidos\SistemaDePedidos\obj\Debug\SistemaDePedidos.pdb
