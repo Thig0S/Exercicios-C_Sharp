@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{48D91E6F-18C7-4F8F-84AE-AD93A87A8594}|Exercicio02\\Exercicio02.csproj|solutionrelative:exercicio02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48D91E6F-18C7-4F8F-84AE-AD93A87A8594}|Exercicio02\\Exercicio02.csproj|c:\\users\\pichau\\source\\repos\\heranca e polimorfismo\\exercicio02\\exercicio02\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{48D91E6F-18C7-4F8F-84AE-AD93A87A8594}|Exercicio02\\Exercicio02.csproj|C:\\Users\\Pichau\\source\\repos\\Heranca e Polimorfismo\\Exercicio02\\exercicio02\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48D91E6F-18C7-4F8F-84AE-AD93A87A8594}|Exercicio02\\Exercicio02.csproj|solutionrelative:exercicio02\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48D91E6F-18C7-4F8F-84AE-AD93A87A8594}|Exercicio02\\Exercicio02.csproj|c:\\users\\pichau\\source\\repos\\heranca e polimorfismo\\exercicio02\\exercicio02\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{48D91E6F-18C7-4F8F-84AE-AD93A87A8594}|Exercicio02\\Exercicio02.csproj|C:\\Users\\Pichau\\source\\repos\\Heranca e Polimorfismo\\Exercicio02\\exercicio02\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48D91E6F-18C7-4F8F-84AE-AD93A87A8594}|Exercicio02\\Exercicio02.csproj|solutionrelative:exercicio02\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48D91E6F-18C7-4F8F-84AE-AD93A87A8594}|Exercicio02\\Exercicio02.csproj|c:\\users\\pichau\\source\\repos\\heranca e polimorfismo\\exercicio02\\exercicio02\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{48D91E6F-18C7-4F8F-84AE-AD93A87A8594}|Exercicio02\\Exercicio02.csproj|C:\\Users\\Pichau\\source\\repos\\Heranca e Polimorfismo\\Exercicio02\\exercicio02\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48D91E6F-18C7-4F8F-84AE-AD93A87A8594}|Exercicio02\\Exercicio02.csproj|solutionrelative:exercicio02\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,8 +46,7 @@
               "RelativeToolTip": "Exercicio02\\Entities\\Product.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T04:20:27.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T04:20:27.284Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "Exercicio02\\Entities\\UsedProduct.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAuwBYAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T04:33:03.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T04:33:03.724Z"
             },
             {
               "$type": "Document",
@@ -72,8 +70,7 @@
               "RelativeToolTip": "Exercicio02\\Entities\\ImportedProduct.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAgwBsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T04:26:27.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T04:26:27.288Z"
             },
             {
               "$type": "Document",

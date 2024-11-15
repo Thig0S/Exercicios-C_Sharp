@@ -1,0 +1,7 @@
+C:\Users\Pichau\source\repos\Exercicio03\Exercicio03\bin\Debug\Exercicio03.exe.config
+C:\Users\Pichau\source\repos\Exercicio03\Exercicio03\bin\Debug\Exercicio03.exe
+C:\Users\Pichau\source\repos\Exercicio03\Exercicio03\bin\Debug\Exercicio03.pdb
+C:\Users\Pichau\source\repos\Exercicio03\Exercicio03\obj\Debug\Exercicio03.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\Exercicio03\Exercicio03\obj\Debug\Exercicio03.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\Exercicio03\Exercicio03\obj\Debug\Exercicio03.exe
+C:\Users\Pichau\source\repos\Exercicio03\Exercicio03\obj\Debug\Exercicio03.pdb
