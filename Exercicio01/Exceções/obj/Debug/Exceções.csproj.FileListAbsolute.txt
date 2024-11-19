@@ -1,0 +1,7 @@
+C:\Users\Pichau\source\repos\Exceções\Exceções\bin\Debug\Exceções.exe.config
+C:\Users\Pichau\source\repos\Exceções\Exceções\bin\Debug\Exceções.exe
+C:\Users\Pichau\source\repos\Exceções\Exceções\bin\Debug\Exceções.pdb
+C:\Users\Pichau\source\repos\Exceções\Exceções\obj\Debug\Exceções.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\Exceções\Exceções\obj\Debug\Exceções.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\Exceções\Exceções\obj\Debug\Exceções.exe
+C:\Users\Pichau\source\repos\Exceções\Exceções\obj\Debug\Exceções.pdb
